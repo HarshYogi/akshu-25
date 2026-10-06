@@ -8,7 +8,7 @@
    Day 1 is START_DATE. Each following day unlocks at midnight
    (on HER device's clock). */
 const START_DATE = new Date(2026, 9, 6);          // Day 1  = 6 Oct 2026
-const BIRTHDAY   = new Date(2026, 9, 30, 0, 0, 0); // Countdown target = 30 Oct 2026
+const BIRTHDAY   = new Date(2026, 9, 31, 0, 0, 0); // Countdown target = 30 Oct 2026
 const TOTAL_DAYS = 25;
 
 /* ---- Her photo on the "welcome back" page ----
@@ -31,7 +31,11 @@ const CARDS = [
    title:'The Day You Were Born',
    text:'Today I will show you the sky above Banaras on the night you were born. Touch the stars and enjoy your sky.\n <a href="https://day-you-born.vercel.app" target="_blank" style="color: #fff; text-decoration: underline;">Open your sky ✦</a>',
   },
-  {emoji:'🎁', title:'Surprise #2',  text:'Your surprise for today goes here.'},
+  {
+   emoji:'💌',
+   title:'Revive our first date moments',
+   text:'Today I will revive some moments of our first date with a simple game.\n <a href="recreate-memory.vercel.app" target="_blank" style="color: #fff; text-decoration: underline;">Open our little moments ✦</a>',
+  },
   {emoji:'🎁', title:'Surprise #3',  text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #4',  text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #5',  text:'Your surprise for today goes here.'},
