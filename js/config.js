@@ -36,7 +36,11 @@ const CARDS = [
    title:'Revive our first date moments',
    text:'Today I will revive some moments of our first date with a simple game.\n <a href="recreate-memory.vercel.app" target="_blank" style="color: #fff; text-decoration: underline;">Open our little moments ✦</a>',
   },
-  {emoji:'🎁', title:'Surprise #3',  text:'Your surprise for today goes here.'},
+  {
+   emoji:'💌',
+   title:'Customize our adventure date',
+   text:'Today together we will customize our first virtual adventure date.\n <a href="https://customize-adventure.vercel.app" target="_blank" style="color: #fff; text-decoration: underline;">Open our virtual date ✦</a>',
+  },
   {emoji:'🎁', title:'Surprise #4',  text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #5',  text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #6',  text:'Your surprise for today goes here.'},
