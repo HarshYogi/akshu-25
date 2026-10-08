@@ -39,9 +39,13 @@ const CARDS = [
   {
    emoji:'💌',
    title:'Customize our adventure date',
-   text:'Today together we will customize our first virtual adventure date.\n <a href="https://customize-adventure.vercel.app" target="_blank" style="color: #fff; text-decoration: underline;">Open our virtual date ✦</a>',
+   text:'Today together we will customize our first virtual adventure date.\n <a href="https://customize-adventure.vercel.app" target="_blank" style="color: "black"; text-decoration: underline;">Open our virtual date ✦</a>',
   },
-  {emoji:'🎁', title:'Surprise #4',  text:'Your surprise for today goes here.'},
+  {
+   emoji:'💌',
+   title:'If you were a...',
+   text:`If you were a ___, you'd be ___.\n <a href="https://if-you-were-a.vercel.app" target="_blank" style="color: "black"; text-decoration: underline;">Open your world ✦</a>`,
+  },
   {emoji:'🎁', title:'Surprise #5',  text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #6',  text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #7',  text:'Your surprise for today goes here.'},
