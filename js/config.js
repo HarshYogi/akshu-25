@@ -46,7 +46,11 @@ const CARDS = [
    title:'If you were a...',
    text:`If you were a ___, you'd be ___.\n <a href="https://if-you-were-a.vercel.app" target="_blank" style="color: "black"; text-decoration: underline;">Open your world ✦</a>`,
   },
-  {emoji:'🎁', title:'Surprise #5',  text:'Your surprise for today goes here.'},
+  {
+   emoji:'💌',
+   title:'Name Constellation',
+   text:`Today I will show you your name constellation in sky\n <a href="https://name-constellation-rho.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Open your sky ✦</a>`,
+  },
   {emoji:'🎁', title:'Surprise #6',  text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #7',  text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #8',  text:'Your surprise for today goes here.'},
