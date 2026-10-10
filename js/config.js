@@ -51,7 +51,11 @@ const CARDS = [
    title:'Name Constellation',
    text:`Today I will show you your name constellation in sky\n <a href="https://name-constellation-rho.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Open your sky ✦</a>`,
   },
-  {emoji:'🎁', title:'Surprise #6',  text:'Your surprise for today goes here.'},
+  {
+   emoji:'💌',
+   title:'Name Translations',
+   text:`Today I will show you your name meanings in many languages\n <a href="https://name-translations.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Open your fairy world ✦</a>`,
+  },
   {emoji:'🎁', title:'Surprise #7',  text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #8',  text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #9',  text:'Your surprise for today goes here.'},
