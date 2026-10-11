@@ -56,7 +56,11 @@ const CARDS = [
    title:'Name Translations',
    text:`Today I will show you your name meanings in many languages\n <a href="https://name-translations.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Open your fairy world ✦</a>`,
   },
-  {emoji:'🎁', title:'Surprise #7',  text:'Your surprise for today goes here.'},
+  {
+   emoji:'💌',
+   title:'Personalized home',
+   text:`Today I want you to make a home for yourself or maybe for us\n <a href="https://personalized-home.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Let's build ✦</a>`,
+  },
   {emoji:'🎁', title:'Surprise #8',  text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #9',  text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #10', text:'Your surprise for today goes here.'},
