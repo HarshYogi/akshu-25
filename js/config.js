@@ -61,7 +61,11 @@ const CARDS = [
    title:'Personalized home',
    text:`Today I want you to make a home for yourself or maybe for us\n <a href="https://personalized-home.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Let's build ✦</a>`,
   },
-  {emoji:'🎁', title:'Surprise #8',  text:'Your surprise for today goes here.'},
+  {
+   emoji:'💌',
+   title:'The Library of you',
+   text:`Today I recalled everything about you and put in a library fill of book\n <a href="https://library-of-you-4w3n.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Let's Explore your library ✦</a>`,
+  },
   {emoji:'🎁', title:'Surprise #9',  text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #10', text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #11', text:'Your surprise for today goes here.'},
