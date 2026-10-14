@@ -71,7 +71,11 @@ const CARDS = [
    title:'Light that came for you',
    text:`Today I will introduce you to a light that came for you only\n <a href="https://light-that-came-for-you.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Are you Excited ✦</a>`,
   },
-  {emoji:'🎁', title:'Surprise #10', text:'Your surprise for today goes here.'},
+  {
+   emoji:'💌',
+   title:'CRIMSON PROTOCOL',
+   text:`You find yourself in a facility to escape\n <a href="https://escape-rooms-eight.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Can you escape ✦</a>`,
+  },
   {emoji:'🎁', title:'Surprise #11', text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #12', text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #13', text:'Your surprise for today goes here.'},
