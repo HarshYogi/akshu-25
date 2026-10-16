@@ -73,10 +73,14 @@ const CARDS = [
   },
   {
    emoji:'💌',
-   title:'CRIMSON PROTOCOL',
+   title:'CRIMSON PROTOCOL: Round 1',
    text:`You find yourself in a facility to escape\n <a href="https://escape-rooms-eight.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Can you escape ✦</a>`,
   },
-  {emoji:'🎁', title:'Surprise #11', text:'Your surprise for today goes here.'},
+  {
+   emoji:'💌',
+   title:'CRIMSON PROTOCOL: Round 2',
+   text:`You need to collect armory and TNT to blew up a base\n <a href="https://stealth-armory-metro.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Can you build you inventory ✦</a>`,
+  },
   {emoji:'🎁', title:'Surprise #12', text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #13', text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #14', text:'Your surprise for today goes here.'},
