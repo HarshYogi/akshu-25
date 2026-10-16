@@ -39,7 +39,7 @@ const CARDS = [
   {
    emoji:'💌',
    title:'Customize our adventure date',
-   text:'Today together we will customize our first virtual adventure date.\n <a href="https://customize-adventure.vercel.app" target="_blank" style="color: "black"; text-decoration: underline;">Open our virtual date ✦</a>',
+   text:'Today together we will customize our first virtual adventure date.\n <a href="https://customize-adventure.vercel.app" target="_blank" style="color: #fff; text-decoration: underline;">Open our virtual date ✦</a>',
   },
   {
    emoji:'💌',
@@ -49,42 +49,42 @@ const CARDS = [
   {
    emoji:'💌',
    title:'Name Constellation',
-   text:`Today I will show you your name constellation in sky\n <a href="https://name-constellation-rho.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Open your sky ✦</a>`,
+   text:`Today I will show you your name constellation in sky\n <a href="https://name-constellation-rho.vercel.app/" target="_blank" style="color: #fff; text-decoration: underline;">Open your sky ✦</a>`,
   },
   {
    emoji:'💌',
    title:'Name Translations',
-   text:`Today I will show you your name meanings in many languages\n <a href="https://name-translations.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Open your fairy world ✦</a>`,
+   text:`Today I will show you your name meanings in many languages\n <a href="https://name-translations.vercel.app/" target="_blank" style="color: #fff; text-decoration: underline;">Open your fairy world ✦</a>`,
   },
   {
    emoji:'💌',
    title:'Personalized home',
-   text:`Today I want you to make a home for yourself or maybe for us\n <a href="https://personalized-home.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Let's build ✦</a>`,
+   text:`Today I want you to make a home for yourself or maybe for us\n <a href="https://personalized-home.vercel.app/" target="_blank" style="color: #fff; text-decoration: underline;">Let's build ✦</a>`,
   },
   {
    emoji:'💌',
    title:'The Library of you',
-   text:`Today I recalled everything about you and put in a library fill of book\n <a href="https://library-of-you-4w3n.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Let's Explore your library ✦</a>`,
+   text:`Today I recalled everything about you and put in a library fill of book\n <a href="https://library-of-you-4w3n.vercel.app/" target="_blank" style="color: #fff; text-decoration: underline;">Let's Explore your library ✦</a>`,
   },
  {
    emoji:'💌',
    title:'Light that came for you',
-   text:`Today I will introduce you to a light that came for you only\n <a href="https://light-that-came-for-you.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Are you Excited ✦</a>`,
+   text:`Today I will introduce you to a light that came for you only\n <a href="https://light-that-came-for-you.vercel.app/" target="_blank" style="color: #fff; text-decoration: underline;">Are you Excited ✦</a>`,
   },
   {
    emoji:'💌',
    title:'CRIMSON PROTOCOL: Round 1',
-   text:`You find yourself in a facility to escape\n <a href="https://escape-rooms-eight.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Can you escape ✦</a>`,
+   text:`You find yourself in a facility to escape\n <a href="https://escape-rooms-eight.vercel.app/" target="_blank" style="color: #fff; text-decoration: underline;">Can you escape ✦</a>`,
   },
   {
    emoji:'💌',
    title:'CRIMSON PROTOCOL: Round 2',
-   text:`You need to collect armory and TNT to blew up a base\n <a href="https://stealth-armory-metro.vercel.app/" target="_blank" style="color: black; text-decoration: underline;">Can you build you inventory ✦</a>`,
+   text:`You need to collect armory and TNT to blew up a base\n <a href="https://stealth-armory-metro.vercel.app/" target="_blank" style="color: #fff; text-decoration: underline;">Can you build you inventory ✦</a>`,
   },
   {
    emoji:'💌',
    title:'CRIMSON PROTOCOL: Round 3',
-   text:`You need kill zombies to reach to the core of base and blew it\n <a href="https://zombie-game-five.vercel.app/" target="_blank" style="color: black; text-decoration: underline;">Can you blew up the base ✦</a>`,
+   text:`You need kill zombies to reach to the core of base and blew it\n <a href="https://zombie-game-five.vercel.app/" target="_blank" style="color: #fff; text-decoration: underline;">Can you blew up the base ✦</a>`,
   },
   {emoji:'🎁', title:'Surprise #13', text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #14', text:'Your surprise for today goes here.'},
