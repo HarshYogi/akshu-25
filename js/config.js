@@ -84,7 +84,7 @@ const CARDS = [
   {
    emoji:'💌',
    title:'CRIMSON PROTOCOL: Round 3',
-   text:`You need kill zombies to reach to the core of base and blew it\n <a href="https://zombie-game-five.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Can you build you inventory ✦</a>`,
+   text:`You need kill zombies to reach to the core of base and blew it\n <a href="https://zombie-game-five.vercel.app/" target="_blank" style="color: "black"; text-decoration: underline;">Can you blew up the base ✦</a>`,
   },
   {emoji:'🎁', title:'Surprise #13', text:'Your surprise for today goes here.'},
   {emoji:'🎁', title:'Surprise #14', text:'Your surprise for today goes here.'},
